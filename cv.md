@@ -14,6 +14,8 @@ I am 26 years old, I work as a design engineer at ECOCOM.
 * HTML
 * CSS
 * JavaScript
+* React.js
+* Node.js
 * Git/GitHub
 
 
