@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fdd922e-3e0a-47be-8091-3ae1956c0233" name="Changes" comment="feat: add cv.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
+    <list default="true" id="0fdd922e-3e0a-47be-8091-3ae1956c0233" name="Changes" comment="fix: change CV">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670504615560</updated>
       <workItem from="1670504618562" duration="131000" />
-      <workItem from="1670504848842" duration="1532000" />
+      <workItem from="1670504848842" duration="1891000" />
     </task>
     <task id="LOCAL-00001" summary="init: start CV#1. Markdown &amp; Git task">
       <created>1670504925907</created>
@@ -68,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670505057185</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix: change CV">
+      <created>1670506635926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506635926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init: start CV#1. Markdown &amp; Git task" />
     <MESSAGE value="feat: add cv.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add cv.md" />
+    <MESSAGE value="fix: change CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: change CV" />
   </component>
 </project>
