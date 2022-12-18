@@ -1,0 +1,7 @@
+.header__image {
+    border-radius: 50%;
+    width: 175px;
+    height: 175px;
+    border: none;
+    object-fit: cover;
+}

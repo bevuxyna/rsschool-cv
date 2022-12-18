@@ -1,0 +1,10 @@
+.main__title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #73808D;
+    margin: 0;
+}
