@@ -1,0 +1,8 @@
+.main__subtitle_project {
+    opacity: 1;
+    transition: opacity 0.5s ease-in;
+}
+
+.main__subtitle_project:hover {
+    opacity: 0.5;
+}
