@@ -5,16 +5,17 @@
 * **E-mail:** melnickova.vlada@yandex.ru
 * **GitHub:** [bevuxyna](https://github.com/bevuxyna)
 * **Telegram:** [bevuxyna](https://t.me/bevuxyna)
+* Moscow
 
 # About Me
 I am 26 years old, I work as a design engineer at ECOCOM.
 
 # Skills
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
-* React.js
+* React
 * Node.js
 * Git/GitHub
 
