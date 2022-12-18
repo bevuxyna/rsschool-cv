@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fdd922e-3e0a-47be-8091-3ae1956c0233" name="Changes" comment="add: add normalize.css">
-      <change afterPath="$PROJECT_DIR$/blocks/about-me/about-me.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/container/__item/container__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/container/__link/container__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/container/__list/container__list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/container/__title/container__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/container/container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/content/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/educational-projects/educational-projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__github/footer__github.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__logo/footer__logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__image/header__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/irrelevant-experience/irrelevant-experience.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__company/main__company.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__date/main__date.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__description/main__description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__item/main__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__list/main__list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__subtitle/_project/main__subtitle_project.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__subtitle/main__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/__title/main__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/main/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="0fdd922e-3e0a-47be-8091-3ae1956c0233" name="Changes" comment="feature: add main structure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +68,7 @@
       <workItem from="1670504618562" duration="131000" />
       <workItem from="1670504848842" duration="4765000" />
       <workItem from="1670870678685" duration="1969000" />
-      <workItem from="1671277025398" duration="12789000" />
+      <workItem from="1671277025398" duration="13093000" />
     </task>
     <task id="LOCAL-00001" summary="init: start CV#1. Markdown &amp; Git task">
       <created>1670504925907</created>
@@ -179,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671363234759</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feature: add main structure">
+      <created>1671394460884</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671394460884</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +192,7 @@
     <MESSAGE value="feat: add index.html" />
     <MESSAGE value="fix: add gh-pages link" />
     <MESSAGE value="add: add normalize.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: add normalize.css" />
+    <MESSAGE value="feature: add main structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: add main structure" />
   </component>
 </project>
