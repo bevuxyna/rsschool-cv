@@ -26,6 +26,7 @@ I am 26 years old, I work as a design engineer at ECOCOM.
     * Bachelor and Master degree
     * Technosphere safety
 * **Yandex Practicum**
+    * November 2021 - November 2022
     * Web-development
 
 # Languages
