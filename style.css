@@ -1,0 +1,38 @@
+@import url(./vendor/normalize.css);
+
+@import url(./blocks/page/page.css);
+
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__image/header__image.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/header/__subtitle/header__subtitle.css);
+
+@import url(./blocks/content/content.css);
+
+@import url(./blocks/container/container.css);
+@import url(./blocks/container/__title/container__title.css);
+@import url(./blocks/container/__list/container__list.css);
+@import url(./blocks/container/__item/container__item.css);
+@import url(./blocks/container/__link/container__link.css);
+
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__title/main__title.css);
+@import url(./blocks/main/__subtitle/main__subtitle.css);
+@import url(./blocks/main/__subtitle/_project/main__subtitle_project.css);
+@import url(./blocks/main/__description/main__description.css);
+@import url(./blocks/main/__company/main__company.css);
+@import url(./blocks/main/__date/main__date.css);
+@import url(./blocks/main/__list/main__list.css);
+@import url(./blocks/main/__item/main__item.css);
+
+@import url(./blocks/about-me/about-me.css);
+
+@import url(./blocks/educational-projects/educational-projects.css);
+
+@import url(./blocks/irrelevant-experience/irrelevant-experience.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__links/footer__links.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__logo/footer__logo.css);
+@import url(./blocks/footer/__github/footer__github.css);

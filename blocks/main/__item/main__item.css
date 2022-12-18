@@ -1,0 +1,7 @@
+.main__item {
+    margin-bottom: 20px;
+}
+
+.main__item:last-child {
+    margin-bottom: 0;
+}

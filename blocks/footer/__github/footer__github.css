@@ -1,0 +1,9 @@
+.footer__github {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    color: #101214;
+    font-size: 18px;
+    line-height: 30px;
+}
